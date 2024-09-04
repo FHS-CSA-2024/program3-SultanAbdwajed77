@@ -22,6 +22,7 @@ public class Program3{
         width = numScanner.nextInt();
         
         //Calc 
+        //Actually find the area and perimeter here
         
         //print results
         System.out.println("The length is: " + length);
